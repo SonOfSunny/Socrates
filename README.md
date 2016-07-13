@@ -1,2 +1,2 @@
 # Socrates
-ROS开发功能包
+This is a package about ROS(Robot Operation System)
